@@ -1,0 +1,1 @@
+FROM espocrm/espocrm:latest
