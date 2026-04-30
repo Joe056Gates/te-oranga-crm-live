@@ -1,1 +1,1 @@
-FROM espocrm/espocrm:latest
+FROM baserow/baserow:latest
